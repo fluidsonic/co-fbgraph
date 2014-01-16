@@ -1,0 +1,24 @@
+{
+  "name": "co-fbgraph",
+  "version": "0.2.8",
+  "description": "co wrapper for fbgraph package.",
+  "keywords": [
+    "co",
+    "facebook",
+    "graph",
+    "api",
+    "generators"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/fluidsonic/co-fbgraph",
+  "bugs": "https://github.com/fluidsonic/co-fbgraph/issues",
+  "author": "Marc Knaup <marc.knaup@koeln.de>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluidsonic/co-fbgraph.git"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "fbgraph": "0.2.8"
+  }
+}
