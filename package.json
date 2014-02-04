@@ -1,6 +1,6 @@
 {
   "name": "co-fbgraph",
-  "version": "0.2.8",
+  "version": "0.2.9",
   "description": "co wrapper for fbgraph package.",
   "keywords": [
     "co",
@@ -19,6 +19,6 @@
   },
   "main": "index.js",
   "dependencies": {
-    "fbgraph": "0.2.8"
+    "fbgraph": "0.2.9"
   }
 }
